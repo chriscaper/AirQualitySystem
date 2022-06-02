@@ -6,9 +6,13 @@
  
 
 Sensors used : MQ9, MQ-135, PM2.5 and DHT11
+
 Hardware used : Arduino UNO Board and Raspberry Pi 3b
+
 Coding IDE : Arduino IDE, Python, Visual Studio Code
+
 Cloud Services : ThingSpeak
+
 Mobile Application Development: Flutter
 
 

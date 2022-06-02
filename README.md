@@ -5,7 +5,7 @@
  Contributors involved in the project: Aniket Pai, Chinmaya S Ram, and Chris Xavier Mathias.
  
 
-Sensors used : MQ6, MQ-135, PM2.5 and DHT11
+Sensors used : MQ9, MQ-135, PM2.5 and DHT11
 
 Hardware used : Arduino UNO Board and Raspberry Pi 3b
 
